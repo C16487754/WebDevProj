@@ -1,6 +1,6 @@
 <div class="jumbotron">
-    <h1>DIT's Bookstore</h1>
-    <p>We can provide you with all the books you need for your university needs.</p>
+    <h1>DIT's Moviestore</h1>
+    <p>We can provide you with all the movies your heart desires.</p>
 </div>
 
 <div class="container-fluid">
